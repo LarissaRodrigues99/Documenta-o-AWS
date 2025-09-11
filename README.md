@@ -33,4 +33,4 @@ Ele permite que alunos solicitem históricos antigos mesmo após muitos anos, co
 
 ---
 
-![Diagrama histórico escolar](./Imagens/Diagrama-historico-escolar.png)
+![Diagrama histórico escolar](https://github.com/LarissaRodrigues99/Historico-escolar/blob/main/Imagens/Diagrama%20-%20hist%C3%B3rico%20escolar.png)
